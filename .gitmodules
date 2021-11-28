@@ -22,3 +22,7 @@
 	path = plugin4
 	url = https://github.com/Supanuttttttt/plugin4.git
 	ignore = dirty
+[submodule "Plugin_Supanut"]
+	path = Plugin_Supanut
+	url = https://github.com/Supanuttttttt/Plugin_Supanut.git
+	ignore = dirty
