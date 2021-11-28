@@ -1,0 +1,28 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/Supanuttttttt/pluginHost.git
+	ignore = dirty
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/Supanuttttttt/pluginInterface.git
+	ignore = dirty
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/Supanuttttttt/plugin1.git
+	ignore = dirty
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/Supanuttttttt/plugin2.git
+	ignore = dirty
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/Supanuttttttt/plugin3.git
+	ignore = dirty
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/Supanuttttttt/plugin4.git
+	ignore = dirty
+[submodule "Plugin_Supanut"]
+	path = Plugin_Supanut
+	url = https://github.com/Supanuttttttt/Plugin_Supanut.git
+	ignore = dirty

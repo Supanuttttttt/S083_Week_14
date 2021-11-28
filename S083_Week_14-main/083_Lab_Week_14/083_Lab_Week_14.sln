@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin3", "..\plugin3\Plugi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin4", "..\plugin4\Plugin4\Plugin4.csproj", "{904CD00C-4CDF-4913-A330-9F60A9EAAD41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginSupanut", "..\Plugin_Supanut\63030083\PluginSupanut.csproj", "{6BD42E46-0A05-41B3-A82D-45D44D1F9A93}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "..\Plugin_Supanut\63030083\Plugins.csproj", "{6CD06871-3312-4AC7-9133-3FCB678C805A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,10 +53,10 @@ Global
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{904CD00C-4CDF-4913-A330-9F60A9EAAD41}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6BD42E46-0A05-41B3-A82D-45D44D1F9A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6BD42E46-0A05-41B3-A82D-45D44D1F9A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6BD42E46-0A05-41B3-A82D-45D44D1F9A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6BD42E46-0A05-41B3-A82D-45D44D1F9A93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD06871-3312-4AC7-9133-3FCB678C805A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD06871-3312-4AC7-9133-3FCB678C805A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD06871-3312-4AC7-9133-3FCB678C805A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD06871-3312-4AC7-9133-3FCB678C805A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
